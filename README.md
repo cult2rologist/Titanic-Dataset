@@ -6,4 +6,6 @@
 * Matplotlib.pyplot
 
 
-##### There won't be any specific questions I want to ask this data before getting started. I will explore as many questions as I can during the process. Some of the research may be redundant and not practically useful for a real-case data analysis. However, primarily, this project focuses on working with data visualization tools. Throughout the process, I will enhance my ability to understand and work with data in Python.
+##### It is a deep dive into data visualization with a project using the Titanic dataset and Python tools like Pandas, Matplotlib, and Seaborn. I mastered 5 new visualization techniques, crafting box plots to reveal gender-based outliers in age and survival, histogram plots to analyze child distribution across classes, and even linear regression models to explore fascinating interrelationships between age, survival, and gender.
+
+This project has been a significant stepping stone in my continuous learning journey, providing a solid foundation for more advanced explorations in the field of data analysis.
